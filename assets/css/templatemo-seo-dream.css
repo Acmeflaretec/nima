@@ -1728,3 +1728,15 @@ responsive
     padding: 30px;
   }
 }
+@media (max-width: 400px) {
+  .header-area .main-nav .logo h4 {
+    font-size: 20px;
+  }
+
+}
+@media (max-width: 300px) {
+  .header-area .main-nav .logo h4 {
+    font-size: 15px;
+  }
+
+}
